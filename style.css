@@ -1,0 +1,103 @@
+li {
+    display: inline;
+}
+ 
+body {
+    background-color: rgba(31, 111, 214, 0.333);
+}
+ 
+.wisata {
+    text-align: center;
+    justify-content: center;
+}
+ 
+span {
+    color: #9c8484;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid rgb(255, 165, 165);
+}
+ 
+.daftar li {
+    padding: 10px;
+    list-style: none;
+    margin-left: 50px;
+    display: inline;
+    margin-left: 300px;
+}
+ 
+nav {
+    background-color: rgb(192, 192, 192);
+    padding: 10px;
+    width: 100%;
+}
+ 
+video {
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    display: block;
+}
+ 
+h1 {
+    color: rgba(100, 75, 75, 0.709);
+    margin-left: 400px;
+}
+ 
+img {
+    width: 50%;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+}
+ 
+footer {
+    background-color: black;
+    padding: 10px;
+    border: 3px solid white;
+}
+ 
+.text {
+    color: white;
+    padding: auto;
+    text-align: center;
+}
+ 
+table {
+    margin-bottom: 20px;
+    border: 1px solid;
+}
+ 
+p .satu {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: 400;
+}
+ 
+.art-1 {
+    margin: 0 auto;
+    background-color: grey;
+}
+ 
+ 
+.wisata {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-variant: small-caps;
+    font-size: 130px;
+ 
+}
+ 
+.informasi {
+    font-size: 80px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+.art-2 {
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 200;
+ 
+}
